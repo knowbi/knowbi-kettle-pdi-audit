@@ -1,0 +1,14 @@
+kettle.pdi.conventions.naming.transformation.step.default.avoid=Y
+kettle.pdi.conventions.naming.job.entry.default.avoid=Y
+pentaho.code.wps.pdi.trans.prefix=tr_
+kettle.pdi.code.wps.pdi.job.prefix=jb_
+# upper, lower, mixed
+kettle.pdi.code.wps.pdi.trans.casing=lower
+kettle.pdi.code.wps.pdi.trans.hasnote=Y
+kettle.pdi.code.wps.pdi.trans.hasdescription=Y
+kettle.pdi.code.wps.pdi.trans.ignoredefaults=
+# upper, lower, mixed
+kettle.pdi.code.wps.pdi.job.casing=lower
+kettle.pdi.code.wps.pdi.job.hasnote=Y
+kettle.pdi.code.wps.pdi.job.hasdescription=Y
+kettle.pdi.code.wps.pdi.job.ignoredefaults=Abort job,Success
