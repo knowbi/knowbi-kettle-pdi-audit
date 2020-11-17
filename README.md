@@ -7,7 +7,7 @@ This repository contains a set of tools to perform checks on code quality and wo
 
 The checks are built in Kettle. You'll need 
 - Java 8 
-- Kettle/PDI the 8.2 release, download [here](https://sourceforge.net/projects/pentaho/files/Pentaho%208.2/client-tools/pdi-ce-8.2.0.0-342.zip/download).
+- Kettle/PDI download 8.2 [here](https://sourceforge.net/projects/pentaho/files/Pentaho%208.2/client-tools/pdi-ce-8.2.0.0-342.zip/download).
 
 
 The main job is `jb_pentaho_code_audit.kjb`. This job takes two parameters: 
