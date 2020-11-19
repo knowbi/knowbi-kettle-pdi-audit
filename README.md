@@ -30,6 +30,7 @@ The `config` folder contains a number of files. These are stored in this code re
   - `kettle.pdi.code.path.exclude.dir`: directory that needs to be excluded from `kettle.pdi.code.path`
   - `know.bi.error.handling.framework`: shared error handling framework. Processes all incoming errors based on a provided error code. Error handling and actions to be taken are handled from a set of business rules, as defined in [this](https://github.com/knowbi/knowbi-pentaho-error-handling-framework) example repository (private repository, will be public soon (2020-11-17)).     
 </details>
+
 ### Audit 
 
 - `kettle-pdi-audit.properties`: a set of audit-specific properties. 
